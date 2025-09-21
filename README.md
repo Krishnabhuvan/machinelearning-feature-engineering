@@ -15,3 +15,13 @@ Instead of manually checking each column, missing values, correlations, etc., Pa
 🔗 Correlations (Pearson, Spearman, Kendall, Cramér's V)
 
 ⚠️ Alerts (high cardinality, skewed distributions, too many missing values, etc.)
+
+#Standardization?
+
+Standardization (or Z-score normalization) is a data preprocessing technique used to rescale features so they have:
+
+Mean = 0
+
+Standard deviation = 1
+
+It transforms each feature to a standard normal distribution.
