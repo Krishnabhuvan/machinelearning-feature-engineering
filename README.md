@@ -16,7 +16,7 @@ Instead of manually checking each column, missing values, correlations, etc., Pa
 
 ⚠️ Alerts (high cardinality, skewed distributions, too many missing values, etc.)
 
-#Standardization?
+# Standardization?
 
 Standardization (or Z-score normalization) is a data preprocessing technique used to rescale features so they have:
 
